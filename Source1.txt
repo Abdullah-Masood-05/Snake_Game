@@ -1,0 +1,5 @@
+0 0 13 14 56 Canada
+0 90 22 59 12 Pakistan
+22 52 12 45 0 India
+40 0 11 36 18 Syria
+40 90 11 56 17 Australia
